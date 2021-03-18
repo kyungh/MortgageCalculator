@@ -8,3 +8,13 @@ C:\Users\Kyung Haug\source\repos\MortgageCalculator\obj\Debug\MortgageCalculator
 C:\Users\Kyung Haug\source\repos\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Kyung Haug\source\repos\MortgageCalculator\obj\Debug\MortgageCalculator.exe
 C:\Users\Kyung Haug\source\repos\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
+C:\Users\Kyung Haug\source\repos\MortgageCalculator\ProjectsCSharp\bin\Debug\MortgageCalculator.exe.config
+C:\Users\Kyung Haug\source\repos\MortgageCalculator\ProjectsCSharp\bin\Debug\MortgageCalculator.exe
+C:\Users\Kyung Haug\source\repos\MortgageCalculator\ProjectsCSharp\bin\Debug\MortgageCalculator.pdb
+C:\Users\Kyung Haug\source\repos\MortgageCalculator\ProjectsCSharp\obj\Debug\MortgageCalculator.csprojAssemblyReference.cache
+C:\Users\Kyung Haug\source\repos\MortgageCalculator\ProjectsCSharp\obj\Debug\MortgageCalculator.Form1.resources
+C:\Users\Kyung Haug\source\repos\MortgageCalculator\ProjectsCSharp\obj\Debug\MortgageCalculator.Properties.Resources.resources
+C:\Users\Kyung Haug\source\repos\MortgageCalculator\ProjectsCSharp\obj\Debug\MortgageCalculator.csproj.GenerateResource.cache
+C:\Users\Kyung Haug\source\repos\MortgageCalculator\ProjectsCSharp\obj\Debug\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kyung Haug\source\repos\MortgageCalculator\ProjectsCSharp\obj\Debug\MortgageCalculator.exe
+C:\Users\Kyung Haug\source\repos\MortgageCalculator\ProjectsCSharp\obj\Debug\MortgageCalculator.pdb
