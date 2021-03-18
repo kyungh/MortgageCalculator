@@ -10,6 +10,7 @@ namespace MortgageCalculator
         [STAThread]
         static void Main()
         {
+            //Default styles
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
